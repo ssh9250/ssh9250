@@ -19,8 +19,8 @@ Spring Boot 기반 백엔드 개발자 지망생
 ---
 
 ## 📊 GitHub Stats
-![ssh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssh&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssh&layout=compact&theme=tokyonight)
+![ssh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssh9250&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssh9250&layout=compact&theme=tokyonight)
 
 ---
 
